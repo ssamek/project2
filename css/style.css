@@ -3,7 +3,7 @@
 #main-navbar {
   background-color: #d4afb9;
   overflow: hidden;
-  color: white;
+  color: #ffff;
 }
 #navbar-container {
   float: left;
@@ -34,5 +34,9 @@
   background-color: #000;
 }
 h1 {
-	color: white;
+	color: #ffff;
+}
+body {
+	background-color: #fce1e4
+	color: #ffff;
 }
