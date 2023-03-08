@@ -48,7 +48,7 @@ html {
 	color: #000;
 }
 #main-navbar2 {
-  background-color: #7ec4df;
+  background-color: #e2f0cb;
   overflow: hidden;
   color: #ffff;
 }
@@ -80,4 +80,47 @@ html {
 }
 #main-navbar2 ul li a:hover {
   background-color: #000;
+}
+/* page 3 css
+*/
+#body3 {
+	background-color: #e8dff5;
+	color: #000;
+}
+#main-navbar3 {
+  background-color: #9cadce;
+  overflow: hidden;
+  color: #ffff;
+}
+#navbar-container3 {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-navbar3 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#main-navbar3 ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+  font-family: "Comic Sans", sans-serif;
+}
+#main-navbar3 ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#main-navbar3 ul li a:hover {
+  background-color: #000;
+}
+html {
+	width: 100%;
 }
