@@ -44,11 +44,11 @@ html {
 /* page 2 css
 */
 #body2 {
-	background-color: #a6eca8;
+	background-color: #d2fdbb;
 	color: #000;
 }
 #main-navbar2 {
-  background-color: #d2fdbb;
+  background-color: #a6eca8;
   overflow: hidden;
   color: #000;
 }
@@ -84,11 +84,11 @@ html {
 /* page 3 css
 */
 #body3 {
-	background-color: #bea9df;
+	background-color: #d9c4ec;
 	color: #000;
 }
 #main-navbar3 {
-  background-color: #d9c4ec;
+  background-color: #bea9df;
   overflow: hidden;
   color: #ffff;
 }
