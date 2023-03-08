@@ -27,6 +27,7 @@
   position: relative;
   right: 50%;
   display: block;
+  font-family: "Comic Sans";
 }
 #main-navbar ul li a {
   display: block;
