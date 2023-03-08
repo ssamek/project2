@@ -1,5 +1,8 @@
 /* page 1 css 
 */
+h1 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
 #body1 {
 	background-color: #fce1e4;
 	color: #000;
