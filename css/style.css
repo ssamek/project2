@@ -33,10 +33,7 @@
 #main-navbar ul li a:hover {
   background-color: #000;
 }
-h1 {
-	color: #ffff;
-}
-body {
+#body1 {
 	background-color: #fce1e4
 	color: #ffff;
 }
