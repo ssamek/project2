@@ -1,5 +1,9 @@
 /* page 1 css 
 */
+#body1 {
+	background-color: #fce1e4
+	color: #ffff;
+}
 #main-navbar {
   background-color: #d4afb9;
   overflow: hidden;
@@ -32,8 +36,4 @@
 }
 #main-navbar ul li a:hover {
   background-color: #000;
-}
-#body1 {
-	background-color: #fce1e4
-	color: #ffff;
 }
