@@ -2,7 +2,7 @@
 */
 #body1 {
 	background-color: #fce1e4;
-	color: black;
+	color: #0000;
 }
 #main-navbar {
   background-color: #d4afb9;
@@ -36,4 +36,7 @@
 }
 #main-navbar ul li a:hover {
   background-color: #000;
+}
+html {
+	width: 100%;
 }
