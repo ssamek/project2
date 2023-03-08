@@ -43,4 +43,41 @@ html {
 }
 /* page 2 css
 */
-
+#body2 {
+	background-color: #ddedea;
+	color: #000;
+}
+#main-navbar2 {
+  background-color: #7ec4df;
+  overflow: hidden;
+  color: #ffff;
+}
+#navbar-container2 {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-navbar2 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#main-navbar2 ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+  font-family: "Comic Sans";
+}
+#main-navbar2 ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#main-navbar2 ul li a:hover {
+  background-color: #000;
+}
