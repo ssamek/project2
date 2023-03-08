@@ -1,6 +1,9 @@
+/* page 1 css 
+*/
 #main-navbar {
   background-color: #d4afb9;
   overflow: hidden;
+  color: white;
 }
 #navbar-container {
   float: left;
