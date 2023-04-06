@@ -92,7 +92,6 @@ html {
 	background-color: #d9c4ec;
 	color: #000;
 	font-family: "Lucida Console", "Courier New", monospace;
-	margin:10px;
 }
 #main-navbar3 {
   background-color: #bea9df;
@@ -138,18 +137,24 @@ html {
 	border-color: #bea9df;
 	font-family: "Lucida Console", "Courier New", monospace;
 	text-align: center;
+	margin:10px;
 }
 #photo {
 	border-style: outset;
 	border-color: #bea9df;
 	font-family: "Lucida Console", "Courier New", monospace;
 	text-align: center;
+	margin:10px;
 }
 #games {
 	border-style: outset;
 	border-color: #bea9df;
 	font-family: "Lucida Console", "Courier New", monospace;
 	text-align: center;
+	margin:10px;
+}
+title3 {
+	margin:10px;
 }
 .imgs{
 	float: left;
