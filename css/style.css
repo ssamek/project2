@@ -141,6 +141,18 @@ html {
 	font-family: "Lucida Console", "Courier New", monospace;
 	text-align: center;
 }
+#photo {
+	border-style: outset;
+	border-color: #bea9df;
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+}
+#games {
+	border-style: outset;
+	border-color: #bea9df;
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+}
 .imgs{
 	float: left;
 	width: 33.33%;
