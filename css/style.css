@@ -7,9 +7,6 @@ h1 {
 	background-color: #fce1e4;
 	color: #000;
 }
-header1 {
-	background-color:#d4afb9;
-}
 #main-navbar {
   background-color: #d4afb9;
   overflow: hidden;
@@ -22,7 +19,7 @@ header1 {
 }
 #main-navbar ul {
   list-style-type: none;
-  margin: 0;
+  margin: 10px;
   padding: 0;
   position: relative;
   left: 50%;
@@ -69,7 +66,7 @@ html {
 }
 #main-navbar2 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 10px;
   padding: 0;
   position: relative;
   left: 50%;
@@ -109,7 +106,7 @@ html {
 }
 #main-navbar3 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 10px;
   padding: 0;
   position: relative;
   left: 50%;
