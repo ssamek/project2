@@ -139,6 +139,7 @@ html {
 	border-style: outset;
 	border-color: #bea9df;
 	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
 }
 .imgs{
 	float: left;
