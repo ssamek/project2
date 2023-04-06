@@ -143,5 +143,6 @@ img3 {
   padding: 5px;
 }
 row {
-	color: #bea9df;
+	border-style: outset;
+	border-color: #bea9df;
 }
