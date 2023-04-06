@@ -127,9 +127,21 @@ html {
 html {
 	width: 100%;
 }
-.row {
+img1 {
   float: left;
   width: 33.33%;
   padding: 5px;
-  color: #bea9df;
+}
+img2 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+img3 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+row {
+	color: #bea9df;
 }
