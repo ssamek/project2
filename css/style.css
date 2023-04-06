@@ -11,6 +11,7 @@ h1 {
   background-color: #d4afb9;
   overflow: hidden;
   color: #ffff;
+  text-align: center;
 }
 #navbar-container {
   float: left;
@@ -58,6 +59,7 @@ html {
   background-color: #a6eca8;
   overflow: hidden;
   color: #000;
+  text-align: center;
 }
 #navbar-container2 {
   float: left;
@@ -98,6 +100,7 @@ html {
   background-color: #bea9df;
   overflow: hidden;
   color: #ffff;
+  text-align: center;
 }
 #navbar-container3 {
   float: left;
