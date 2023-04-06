@@ -127,7 +127,7 @@ html {
 html {
 	width: 100%;
 }
-.column {
+.row {
   float: left;
   width: 33.33%;
   padding: 5px;
