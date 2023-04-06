@@ -156,8 +156,8 @@ html {
 }
 .imgs{
 	float: left;
-	width: 250px;
-	height: 400px;
+	width: auto;
+	height: auto;
 	padding-left:5px; 
 }
 #row::after {
