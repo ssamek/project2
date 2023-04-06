@@ -135,15 +135,10 @@ html {
 	width: 100%;
 	
 }
-row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-row {
-	
+#art {
 	border-style: outset;
 	border-color: #bea9df;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 .imgs{
 	float: left;
