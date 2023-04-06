@@ -86,6 +86,26 @@ html {
 #main-navbar2 ul li a:hover {
   background-color: #000;
 }
+#Qinfo {
+	border-style: outset;
+	border-color: #a6eca8;
+	font-family: "FreeMono", monospace;
+	text-align: center;
+	margin:10px;
+}
+#Qfavs {
+	border-style: outset;
+	border-color: #a6eca8;
+	font-family: "FreeMono", monospace;
+	text-align: center;
+	margin:10px;
+}
+#Qmedia {
+	border-style: outset;
+	border-color: #a6eca8;
+	border-radius: 30px;
+	align-items: center;
+}
 /* page 3 css
 */
 #body3 {
