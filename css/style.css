@@ -7,6 +7,9 @@ h1 {
 	background-color: #fce1e4;
 	color: #000;
 }
+header1 {
+	background-color:#d4afb9;
+}
 #main-navbar {
   background-color: #d4afb9;
   overflow: hidden;
@@ -130,6 +133,7 @@ html {
 }
 html {
 	width: 100%;
+	
 }
 img1 {
   float: left;
